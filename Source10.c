@@ -53,6 +53,6 @@ int task_1() {
 }
 
 int task_2() {
-	int a, b;
+	int a, b; // выполение задания 2
 	return 0;
 }
