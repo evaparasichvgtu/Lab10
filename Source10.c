@@ -53,6 +53,6 @@ int task_1() {
 }
 
 int task_2() {
-	int a;
+	int a, b;
 	return 0;
 }
