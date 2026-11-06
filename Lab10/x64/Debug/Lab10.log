@@ -1,0 +1,4 @@
+﻿  Source10.c
+C:\Users\dmitr\OneDrive\Рабочий стол\ЛАБЫ ПРОГА\Lab10\Lab10\Source10.c(8,2): warning C4013: task_1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\dmitr\OneDrive\Рабочий стол\ЛАБЫ ПРОГА\Lab10\Lab10\Source10.c(28,7): warning C4101: cont: неиспользованная локальная переменная
+  Lab10.vcxproj -> C:\Users\dmitr\OneDrive\Рабочий стол\ЛАБЫ ПРОГА\Lab10\Lab10\x64\Debug\Lab10.exe
